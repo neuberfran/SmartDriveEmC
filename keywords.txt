@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SmartDrive	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+command KEYWORD2
+GetBattVoltage  KEYWORD2
+ReadTachometerPosition  KEYWORD2
+Run_Unlimited   KEYWORD2
+StopMotor   KEYWORD2
+Run_Seconds KEYWORD2
+WaitUntilTimeDone   KEYWORD2
+Run_Degrees KEYWORD2
+Run_Rotations   KEYWORD2
+Run_Tacho   KEYWORD2
+WaitUntilTachoDone  KEYWORD2
+IsTachoDone KEYWORD2
+SetPerformanceParameters    KEYWORD2
+ReadPerformanceParameters   KEYWORD2
+GetMotorStatus  KEYWORD2
+PrintMotorStatus    KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
